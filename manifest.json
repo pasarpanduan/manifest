@@ -1,0 +1,38 @@
+{
+  "name": "KompiTextAja",
+  "short_name": "KompiTextAja",
+  "start_url": "https://kompitext.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-Id60fXBEIYE/XQITO4kvYfI/AAAAAAAAHp0/DhRG6WyU_LIbyG3AHxxpj448XypqNmgCQCLcBGAs/s1600/loker%2Bpasarpanduan%2B48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7KetcKkodjE/XQITWlwGJYI/AAAAAAAAHp4/5AYFF0Vbm40sQcI3ygA5JiPIYPuXcEnmACLcBGAs/s1600/loker%2Bpasarpanduan%2B72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-8fLqo06pXhw/XQITdpNqRFI/AAAAAAAAHp8/xbDmyx2JvnkTWMaB5vLRzismRjSx6cXFgCLcBGAs/s1600/loker%2Bpasarpanduan%2B96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7Cy9nsx8Las/XQITmDtNqgI/AAAAAAAAHqE/WXpTRvVYxB85o3d-cOgjHlEjzDHw7oLggCLcBGAs/s1600/loker%2Bpasarapnduan%2B144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-n_vdgzHAcbo/XQIUdCsUVEI/AAAAAAAAHqY/-iV5jD3v-O4kACl3w2G5X5RUDzdB2eEjwCLcBGAs/s1600/loker%2Bpasarpanduan%2B168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OV_WWoHGymo/XQIUlQFhtZI/AAAAAAAAHqc/GRJre5xs3KkUEHBmouW5HHGvq2qZip-NgCLcBGAs/s1600/loker%2Bpasarpanduan%2B192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-TLYzoDByTLQ/XQIU6d7XtAI/AAAAAAAAHqo/-SYAeykn_Zo2XtjZXz2-eeMdEm2PEYDeQCLcBGAs/s1600/loker%2Bpasarpanduan%2B512x512.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="512" data-original-width="512" height="320" src="https://1.bp.blogspot.com/-TLYzoDByTLQ/XQIU6d7XtAI/AAAAAAAAHqo/-SYAeykn_Zo2XtjZXz2-eeMdEm2PEYDeQCLcBGAs/s320/loker%2Bpasarpanduan%2B512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
