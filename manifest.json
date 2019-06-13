@@ -1,11 +1,11 @@
 {
-  "name": "KompiTextAja",
-  "short_name": "KompiTextAja",
-  "start_url": "https://kompitext.blogspot.com/",
+  "name": "Loker pasarpanduan",
+  "short_name": "Loker pasarpanduan",
+  "start_url": "https://loker.pasarpanduan.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "description": "loker.pasarpanduan.com merupakan Blog Yang Memberikan Informasi Lowongan Kerja di Indonesia Khususnya Palembang, Panduan Psikotest, dan Interview.",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-Id60fXBEIYE/XQITO4kvYfI/AAAAAAAAHp0/DhRG6WyU_LIbyG3AHxxpj448XypqNmgCQCLcBGAs/s1600/loker%2Bpasarpanduan%2B48x48.png",
     "sizes": "48x48",
